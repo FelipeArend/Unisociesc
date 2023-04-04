@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T19:59:33.708Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 OPR/96.0.0.0" etag="xgOYxbwiAT_dGZwV1zly" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T20:00:19.501Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 OPR/96.0.0.0" etag="kmCXfLjuqcuxdzmb6i22" version="21.1.2" type="github">
   <diagram name="Página-1" id="UAK1KAQBqoK76anahQVk">
     <mxGraphModel dx="1009" dy="3842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -47,15 +47,15 @@
           <mxGeometry x="50" y="-2870" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-LYPNozy2RQMqdCgS2NU-59" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;br&gt;&lt;b&gt;CD Amazon&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="610" y="-3280" width="350" height="450" as="geometry" />
+          <mxGeometry x="440" y="-3280" width="350" height="450" as="geometry" />
         </mxCell>
         <mxCell id="-LYPNozy2RQMqdCgS2NU-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-LYPNozy2RQMqdCgS2NU-57" target="-LYPNozy2RQMqdCgS2NU-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="-2960" as="sourcePoint" />
             <mxPoint x="480" y="-3180" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="480" y="-2860" />
-              <mxPoint x="480" y="-3230" />
+              <mxPoint x="400" y="-2860" />
+              <mxPoint x="400" y="-3230" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -63,34 +63,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-LYPNozy2RQMqdCgS2NU-61" value="Receber pedido do app" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="-3240" width="150" height="20" as="geometry" />
+          <mxGeometry x="460" y="-3240" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-LYPNozy2RQMqdCgS2NU-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-LYPNozy2RQMqdCgS2NU-64" target="-LYPNozy2RQMqdCgS2NU-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-LYPNozy2RQMqdCgS2NU-64" value="adicionar n° de rastreio ao pedido" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="-3190" width="150" height="30" as="geometry" />
+          <mxGeometry x="460" y="-3190" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-LYPNozy2RQMqdCgS2NU-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-LYPNozy2RQMqdCgS2NU-76" target="-LYPNozy2RQMqdCgS2NU-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-LYPNozy2RQMqdCgS2NU-76" value="receber peso do produto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="-3140" width="150" height="30" as="geometry" />
+          <mxGeometry x="460" y="-3140" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-LYPNozy2RQMqdCgS2NU-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-LYPNozy2RQMqdCgS2NU-78" target="-LYPNozy2RQMqdCgS2NU-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-LYPNozy2RQMqdCgS2NU-78" value="informar ao usuário a caixa a ser usada com base no peso do produto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="-3090" width="150" height="50" as="geometry" />
+          <mxGeometry x="460" y="-3090" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-LYPNozy2RQMqdCgS2NU-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-LYPNozy2RQMqdCgS2NU-80" target="-LYPNozy2RQMqdCgS2NU-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-LYPNozy2RQMqdCgS2NU-80" value="emitir etiqueda de codigo de barras" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="-3010" width="150" height="30" as="geometry" />
+          <mxGeometry x="460" y="-3010" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-LYPNozy2RQMqdCgS2NU-82" value="emitir etiqueda de codigo de barras" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="-2960" width="150" height="30" as="geometry" />
+          <mxGeometry x="460" y="-2960" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
